@@ -1,0 +1,22 @@
+{
+    "version": "2",
+    "OTAURL": "https://raw.githubusercontent.com/khajdinja20/SL_FW_OTA/main/firmware.bin",
+    "wifiSSID": "TheLabIOT",
+    "wifiPassword": "Yaay!ICanTalkNow",
+    "mqttServer": "10.85.31.76",
+    "mqttCertFingerprint": "39 df b6 55 54 1d a4 53 12 70 65 dc 43 11 53 da 3b a3 6e a8",
+    "mqttPort": 3000,
+    "mqttCertValidation": true,
+    "mqttCertFingerprintValidation": true,
+    "mqttAllowSelfSignedCerts": true,
+    "mqttAllowInsecure": false,
+    "mqttUser": "dv5",
+    "mqttPassword": "su9aLe?idudei2i",
+    "mqttSndTopic": "/overlord/dv5-1",
+    "mqttRcvTopic": "/gatekeeper/dv5-1",
+    "cryptoKey": "XcNfvyZnBXdlMSS5kktUh5WLFx8vnEpPq690jAsgR3U=",
+    "holdTime": 3000,
+    "clientID": "dv5-1",
+    "controllerID": "overlord",
+    "otaPassword": "+Za52biegunokiz4"
+}
